@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+frontend-ui/node_modules/
+frontend-core/node_modules/
+
+# Build outputs
+*.exe
+*.o
+*.out
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
