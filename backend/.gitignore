@@ -1,0 +1,11 @@
+main.exe
+graph.exe
+*.exe
+*.o
+*.out
+taxi_state.txt
+.vscode
+
+# Test output files
+*.json
+!package.json
